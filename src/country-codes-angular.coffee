@@ -1,4 +1,4 @@
-angular.module('country-codes-agnular', [])
+angular.module('country-codes-angular', [])
 
   .value('countryCodes',
     'af': 'Afghanistan',
