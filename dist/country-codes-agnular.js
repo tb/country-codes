@@ -1,6 +1,6 @@
 (function() {
 
-  angular.module('country-codes-agnular', []).value('countryCodes', {
+  angular.module('country-codes-angular', []).value('countryCodes', {
     'af': 'Afghanistan',
     'ax': 'Åland Islands',
     'al': 'Albania',
